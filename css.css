@@ -1,4 +1,6 @@
-
+body{
+    background-image: url('mi.jpeg');
+}
 .row1{
     position: absolute;
     left:140px;
@@ -7,11 +9,27 @@
 .row2{
     position: absolute;
     left:870px;
-    top:10px;
 }
 
 .row3{
     position: absolute;
     left:1630px;
-    top:10px;
+}
+
+h1{
+    color:white;
+}
+
+p{
+    color: White;
+}
+
+#cim{
+    border: 1px solid white;
+}
+
+.focim{
+    font-size:48pt;
+    text-align:center;
+    color:whitesmoke;
 }

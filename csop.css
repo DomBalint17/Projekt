@@ -1,0 +1,11 @@
+body{
+    background-image:url('mi.jpeg');
+}
+h1{
+    font-size:48pt;
+	text-align:center;
+    color: whitesmoke;
+}
+#cím{
+    border: 1px solid white;
+}

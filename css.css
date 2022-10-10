@@ -13,11 +13,12 @@ body{
 
 .row3{
     position: absolute;
-    left:1330px;
+    left:1180px;
 }
 
 h1{
     color:white;
+    font-size:35px;
 }
 
 p{
@@ -35,9 +36,43 @@ p{
 }
 
 .elsobekezdes{
-    font-size:25px;
+    font-size:30px;
 }
 
 .masodikbekezdes{
-    font-size:25px;
+    font-size:20px;
+}
+
+.msi{
+    position:absolute;
+    top:380px;
+}
+
+.harmadikbekezdes{
+    font-size: 30px;
+    position:absolute;
+    top:430px;
+}
+
+.pmi{
+    position:absolute;
+    top: 380px;
+}
+
+.negyedikbekezdes{
+    font-size:30px;
+    position:absolute;
+    top: 430px;
+}
+
+h5{
+    font-size:40px;
+}
+
+.h5{
+    position: absolute;
+    top:270px;
+    left:870px;
+    font-size:100px;
+    color:white;
 }

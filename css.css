@@ -13,7 +13,7 @@ body{
 
 .row3{
     position: absolute;
-    left:1630px;
+    left:1330px;
 }
 
 h1{
@@ -32,4 +32,12 @@ p{
     font-size:48pt;
     text-align:center;
     color:whitesmoke;
+}
+
+.elsobekezdes{
+    font-size:25px;
+}
+
+.masodikbekezdes{
+    font-size:25px;
 }

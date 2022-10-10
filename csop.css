@@ -70,6 +70,7 @@ h5{
     color:white;
 }
 .vidi{
+    position:absolute;
     top: 620px;
     left: 20px;
 }

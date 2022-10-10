@@ -57,22 +57,7 @@ div{
     text-align: justify;
     text-justify: inter-word;
 }
-.li1{
-    position: absolute;
-    right: 100px;
-}
-.li2{
-    position: absolute;
-    right: 100px;
-}
-.li3{
-    position: absolute;
-    right: 100px;
-}
-.li4{
-    position: absolute;
-    right: 100px;
-}
+
 h5{
     font-size:40px;
 }
@@ -83,4 +68,8 @@ h5{
     left:870px;
     font-size:100px;
     color:white;
+}
+.vidi{
+    top: 620px;
+    left: 20px;
 }

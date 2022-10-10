@@ -1,11 +1,75 @@
 body{
-    background-image:url('mi.jpeg');
+    background-image: url('mi.jpeg');
 }
+.row1{
+    position: absolute;
+    left:140px;
+}
+
+.row2{
+    position: absolute;
+    left:870px;
+}
+
+.row3{
+    position: absolute;
+    left:1180px;
+}
+
 h1{
-    font-size:48pt;
-	text-align:center;
-    color: whitesmoke;
+    color:white;
 }
-#cím{
+
+p{
+    color: White;
+}
+
+#vonal{
     border: 1px solid white;
+}
+
+.focim{
+    font-size:48pt;
+    text-align:center;
+    color:whitesmoke;
+}
+
+.elsobekezdes{
+    font-size:25px;
+}
+
+.masodikbekezdes{
+    font-size:25px;
+}
+#elony{
+    color: whitesmoke;
+    font-size: 35px;
+    position: absolute;
+    right: 70px;
+}
+#eszoveg{
+    font-size: 30px ;
+}
+#onv{
+    font-size: 30px;
+}
+div{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.li1{
+    position: absolute;
+    right: 100px;
+}
+.li2{
+    position: absolute;
+    right: 100px;
+}
+.li3{
+    position: absolute;
+    right: 100px;
+}
+.li4{
+    position: absolute;
+    right: 100px;
 }

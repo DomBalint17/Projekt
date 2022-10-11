@@ -74,3 +74,10 @@ h5{
     top: 620px;
     left: 650px;
 }
+
+.video{
+    position:absolute;
+    bottom:180px;
+    left:200px;
+    font-size:30px;
+}

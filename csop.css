@@ -71,14 +71,14 @@ h5{
 }
 .vidi{
     position:absolute;
-    top: 620px;
+    top: 640px;
     left: 650px;
 }
 
 .video{
     position:absolute;
-    bottom:180px;
-    left:200px;
-    font-size:30px;
+    bottom:100px;
+    left:130px;
+    font-size:50px;
 }
 

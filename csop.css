@@ -13,7 +13,7 @@ body{
 
 .row3{
     position: absolute;
-    left:1180px;
+    left:980px;
 }
 
 h1{
@@ -45,7 +45,7 @@ p{
     color: whitesmoke;
     font-size: 35px;
     position: absolute;
-    right: 70px;
+    right: 250px;
 }
 #eszoveg{
     font-size: 30px ;

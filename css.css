@@ -3,12 +3,7 @@ body{
 }
 .row1{
     position: absolute;
-    left:140px;
-}
-
-.row2{
-    position: absolute;
-    left:870px;
+    left:80px;
 }
 
 .row3{
@@ -23,6 +18,7 @@ h1{
 
 p{
     color: White;
+    font-size:25px;
 }
 
 #cim{
@@ -36,11 +32,13 @@ p{
 }
 
 .elsobekezdes{
-    font-size:30px;
+    font-size:25px;
 }
 
 .masodikbekezdes{
-    font-size:20px;
+    font-size:25px;
+    position:absolute;
+    top:-50px;
 }
 
 .msi{
@@ -49,9 +47,9 @@ p{
 }
 
 .harmadikbekezdes{
-    font-size: 30px;
+    font-size: 25px;
     position:absolute;
-    top:430px;
+    top:480px;
 }
 
 .pmi{
@@ -60,9 +58,9 @@ p{
 }
 
 .negyedikbekezdes{
-    font-size:30px;
+    font-size:25px;
     position:absolute;
-    top: 430px;
+    top: 480px;
 }
 
 h5{

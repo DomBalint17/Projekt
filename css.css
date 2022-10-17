@@ -69,8 +69,37 @@ h5{
 
 .h5{
     position: absolute;
-    top:270px;
+    top:570px;
     left:870px;
     font-size:100px;
     color:white;
+}
+
+.h2{
+    position: absolute;
+    top:370px;
+    left:760px;
+    color:white;
+}
+
+.kozepsoszoveg{
+    position: absolute;
+    top:440px;
+    left:680px;
+    text-align: justify;
+}
+
+.h3{
+    position: absolute;
+    top:430px;
+    left:760px;
+    color:white;
+    font-size:24px;
+}
+
+.kozepsoszoveg2{
+    position: absolute;
+    top:500px;
+    left:680px;
+    text-align: justify;
 }

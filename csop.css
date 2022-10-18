@@ -64,7 +64,7 @@ h5{
 
 .h5{
     position: absolute;
-    top:620px;
+    top:500px;
     left:1500px;
     font-size:100px;
     color:white;
@@ -82,3 +82,38 @@ h5{
     font-size:50px;
 }
 
+.mijelzo1{
+    position: absolute;
+    top:745px;
+    text-align: center;
+    left:1566.5px;
+    font-size:30px;
+}
+
+.mijelzo2{
+    position: absolute;
+    top:760px;
+    left:1570px;
+    font-size: 30px;
+}
+
+.mijelzo3{
+    position: absolute;
+    top:785px;
+    left:1570px;
+    font-size: 30px;
+}
+
+.mijelzo4{
+    position: absolute;
+    top:820px;
+    left:1535px;
+    font-size: 30px;
+}
+
+.nyil{
+    position: absolute;
+    bottom:94.5px;
+    left:565px;
+    font-size:50px;
+}

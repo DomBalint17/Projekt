@@ -103,3 +103,28 @@ h5{
     left:680px;
     text-align: justify;
 }
+
+.mijelzo1{
+    position: absolute;
+    top:830px;
+    text-align: center;
+    left:932px;
+}
+
+.mijelzo2{
+    position: absolute;
+    top:840px;
+    left:935px;
+}
+
+.mijelzo3{
+    position: absolute;
+    top:860px;
+    left:935px;
+}
+
+.mijelzo4{
+    position: absolute;
+    top:885px;
+    left:800px;
+}
